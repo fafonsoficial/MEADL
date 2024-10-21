@@ -56,6 +56,12 @@ section h1 {
     transition: .10s;
 }
 
+.meu-botão a {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
 .meu-botão:hover {
     background-color: blue;
 }
